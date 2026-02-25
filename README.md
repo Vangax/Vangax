@@ -1,1 +1,1 @@
-👋 Hi, I'm Devang, an 18-year-old working at the intersection of astrophysics and data science. Focused on AI-driven research for space exploration, developing machine learning models for anomaly detection and astronomical data analysis. Open to collaborations and research discussions.
+👋 Hi, I'm Devang, an 19-year-old researcher. Focused on research for neural networks , bci , space exploration and more .Open to collaborations and research discussions.
